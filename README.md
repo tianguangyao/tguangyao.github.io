@@ -1,2 +1,2 @@
-# tguangyao.github.io
+# tianguangyao.github.io
 personal blog
